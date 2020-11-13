@@ -16,6 +16,8 @@ namespace Algorithms
             BubbleSortAlgorithm.BubbleSort(unsortedList);
             
             SelectionSortAlgorithm.SelectionSort(unsortedList);
+
+            InsertionSortAlgorithm.InsertionSort(unsortedList);
         }
     }
 }
