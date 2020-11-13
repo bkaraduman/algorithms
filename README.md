@@ -56,3 +56,18 @@ Worst case (reverse sorted), you need again loop all elements. The only differen
 
 Average Case, the complexity of algorithm is n^2.
 
+3. Insertion Sort Algorithm
+
+This algorithm is very easy to code. Usually in card games, people unconsciously use this algorithm to sort the cards in their hand. However, since its complexity is N ^ 2, it is not considered an efficient algorithm.
+
+How insertion Sort algorithm works?
+
+In the algorithm, our loop works by comparing the next element from the end to the beginning and placing it in its place every turn.
+
+Worst Case: Complexity = O(N^2)
+Base Case : O(N)
+
+It is a lineer algorithm. Sorting is done from small to large.
+
+
+
