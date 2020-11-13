@@ -13,7 +13,7 @@ namespace Algorithms
         {
             double[] unsortedList = { 36, 2, 28, 1, 23, 7, 44 };
 
-            BubbleSortAlgorithm.BubbleSort(unsortedList);
+            // BubbleSortAlgorithm.BubbleSort(unsortedList);
             
             SelectionSortAlgorithm.SelectionSort(unsortedList);
         }
